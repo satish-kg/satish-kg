@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satish-kg
-- 👀 I’m interested in Python, Data Analysis and Visualisation and Machine Learning.
+- 👀 I’m a full-stack developer who works with Ionic, Angular, Node.js, jQuery, Popper, & Bootstrap. Interested in Python, Data Analysis and Visualisation and Machine Learning.
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
