@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @satish-kg
-- 👀 Interested in Python, Data Analysis and Visualisation and Machine Learning.
-- 🌱 I’m currently learning full stack development with React..
+- 🌱 I’m currently learning full stack development..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
