@@ -33,7 +33,7 @@
 
 - 👯 I’m looking to collaborate on **Web site design, cyber security etc.**
 
-- 💬 Ask me about **React , JavaScript , cool CSS style design**
+- 💬 Ask me about **React , JavaScript , Spring Boot, Java and MySQL**
 
 - 📫 How to reach me **satishkrgupta555@gmail.com**
 
