@@ -5,6 +5,7 @@
 <!---*********************************************************************************************************************************************************************************************** --->
 
 
+![Hi, i'm satish](https://github.com/satish-kg/satish-kg/assets/80269402/7c2efac3-835e-4cb3-8850-4338f89d76c8)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
