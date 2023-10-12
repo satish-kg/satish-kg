@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish-kg&label=Profile%20views&color=0e75b6&style=flat" alt="satish-kg" /> </p>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/satish-kg)(https://github.com/satish-kg) [![followers](https://img.shields.io/github/followers/satish-kg?style=social)](https://github.com/satish-kg?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/satish-kg)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/satish-kg)[![followers](https://img.shields.io/github/followers/satish-kg?style=social)](https://github.com/satish-kg?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/satish-kg)
  <!--[![Profile](https://visitor-badge.glitch.me/badge?page_id=satish-kg.profileviews-badge)]--->
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/lovegupta112)](https://github.com/lovegupta112?tab=repositories) -->
 
