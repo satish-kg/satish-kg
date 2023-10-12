@@ -29,9 +29,9 @@
 
 - 🔭 I’m currently Learning on **WebDevelopment** and **Dsa**.
 
-- 🌱 I always try to learn some new things about **React , PHP , MySQL , Advanced JavaScript ,Java applet and some other things about security.**
+- 🌱 I always try to learn some new things about **React , Spring Boot, Java, MySQL , Advanced JavaScript ,Java applet and some other things about security.**
 
-- 👯 I’m looking to collaborate on **Web site design, cyber security etc.**
+- 👯 I’m looking to collaborate on **Web site design, backend APIs, database and cyber security etc.**
 
 - 💬 Ask me about **React , JavaScript , Spring Boot, Java and MySQL**
 
