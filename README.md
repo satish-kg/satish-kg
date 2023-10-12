@@ -23,7 +23,7 @@
 <!--- <p align="left"> <a href="https://twitter.com/melovegupta" target="blank"><img src="https://img.shields.io/twitter/follow/melovegupta?logo=twitter&style=for-the-badge" alt="melovegupta" /></a> </p> --->
 
 
-[![@lovegupta112's Holopin board](https://holopin.me/satish-kg)](https://holopin.io/@satish-kg)
+[![@lovegupt's Holopin board](https://holopin.me/satishkg)](https://holopin.io/@satishkg)
 
 - 🔭 I’m currently Learning on **WebDevelopment** and **Dsa**.
 
